@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tip_calculator/splash.dart';
+import 'package:tip_calculator/tip_calculator.dart';
 
 void main() {
   runApp(const MyApp());
