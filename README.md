@@ -1,16 +1,11 @@
-# tip_calculator
+# Tip Calculator App
 
-A new Flutter project.
+Tip Calculator splits the bill fast, great for dining and drinks with friends!
 
-## Getting Started
+★ Splits Bill! <br>
+★ Fast & Precise Performance!<br>
+★ Quiet Operation!<br>
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/115712578/198825070-3081296f-1f1c-495c-8d6d-707e5be452c9.jpeg" height=550>
